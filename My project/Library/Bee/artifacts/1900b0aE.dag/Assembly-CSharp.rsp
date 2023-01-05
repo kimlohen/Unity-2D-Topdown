@@ -378,6 +378,8 @@
 "Assets/Script/GameManager.cs"
 "Assets/Script/ObjData.cs"
 "Assets/Script/PlayerAction.cs"
+"Assets/Script/QuestData.cs"
+"Assets/Script/QuestManager.cs"
 "Assets/Script/TalkManager.cs"
 "Assets/TopDown 2D RPG BE3/ReadMe/Scripts/ReadmeBE3.cs"
 -langversion:9.0
